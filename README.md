@@ -1,7 +1,7 @@
 # Project Name: Data Warehousing for NYC Collisions
-- author(s): Sofia Shur, Raidah Moin, Eunjin Jung, Xiaozhong Li
-- date created: 5/7/2022
-- class: CIS 9440
+author(s): Sofia Shur, Raidah Moin, Eunjin Jung, Xiaozhong Li<br />
+date created: 5/7/2022<br />
+class: CIS 9440<br />
 
 **Project Objective:** To follow the Kimball Lifecycle for designing and developing a public, cloud-based Data Warehouse with a functioning BI Applications.
 
@@ -9,11 +9,11 @@
 
 The tools used to build this Data Warehouse were:
 
-1. For data integration - python
-2. For data warehousing - Google BigQuery
-3. For Business Intelligence - Tableau
-4. Lucid website - Wireframes
-5. Visio - Dimensional Model
+For data integration - python
+For data warehousing - Google BigQuery
+For Business Intelligence - Tableau
+Lucid website - Wireframes
+Visio - Dimensional Model
 
 ## Kimball Lifecycle Project Stages
 
