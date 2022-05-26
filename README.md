@@ -53,8 +53,11 @@ Dimensional model:<br />
 **![Dimension Model](assets/Dimension_Model.png)**
 
 This project's Kimball Bus Matrix:<br />
-**![Kimball BUS Matrix](assets/Kimball_BUS_Matrix.png)**
+**![Kimball BUS Matrix](assets/Kimball_BUS_Matrix.png)**<br />
 
+### ETL Design and Development
+Built data pipeline using Python on Jupyter Notebook: https://github.com/lixiaozhong89/Data-Warehousing-for-NYC-Collisions/blob/51823d8803f6479fceab9500d47e5d15a5ccf688/ETL.ipynb
+<br />
 ### Business Intelligence Design and Development
 
 List of Visualizations for each KPI:
@@ -69,26 +72,8 @@ List of Visualizations for each KPI:
 5. Dual-line chart to show the relationship between two variables. 
 
 6. Table that shows the ratio of death per crash by month.
-
-   
-
-BI Application Wireframe design:
-![Wireframe1](C:\Users\SOFKA\Downloads\Dashboard Wireframe1.png)
-
-![Wireframe2](C:\Users\SOFKA\Downloads\Wireframe2.png)
-
-![Wireframe3](C:\Users\SOFKA\Downloads\Dashboard Wireframe3.png)
-
-Picture of final Dashboard:
-
-![Dashboard1](C:\Users\SOFKA\Downloads\Dashboard1.png)
-
-![Dashboard2](C:\Users\SOFKA\Downloads\Dashboard2.png)
-
-![Dashboard3](C:\Users\SOFKA\Downloads\Dashboard3.png)
-
-
+<br />  
 
 ### Deployment
 
-The project was deployed on Tableau Public: https://public.tableau.com/app/profile/xiaozhong.li1583/viz/CIS9440vis/Story1
+BI application was deployed on Tableau Public: https://public.tableau.com/app/profile/xiaozhong.li1583/viz/CIS9440vis/Story1
