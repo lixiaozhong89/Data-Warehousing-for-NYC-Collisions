@@ -52,7 +52,7 @@ This project's Dimensional Model consists of one table of Facts and 4 tables of 
 Dimensional model:<br />
 **![Dimension Model](images/Dimension Model.png)
 
-This project's Kimball Bus Matrix:
+This project's Kimball Bus Matrix:<br />
 **![Kimball BUS Matrix](images\Kimball BUS Matrix.png)**
 
 ### Business Intelligence Design and Development
