@@ -50,10 +50,10 @@ NYC Car Collisions - Data Warehouse KPI's:
 This project's Dimensional Model consists of one table of Facts and 4 tables of Dimensions.
 
 Dimensional model:<br />
-**![Dimension Model](images/Dimension Model.png)**
+**![Dimension Model](assets/Dimension_Model.png)**
 
 This project's Kimball Bus Matrix:<br />
-**![Kimball BUS Matrix](images\Kimball BUS Matrix.png)**
+**![Kimball BUS Matrix](assets/Kimball_BUS_Matrix.png)**
 
 ### Business Intelligence Design and Development
 
