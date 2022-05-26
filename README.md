@@ -1,4 +1,4 @@
-# Project NYC CAR COLLISIONS
+# Project Name: Data Warehousing for NYC Collisions
 - author(s): Sofia Shur, Raidah Moin, Eunjin Jung, Xiaozhong Li
 - date created: 5/7/2022
 - class: CIS 9440
@@ -49,8 +49,8 @@ NYC Car Collisions - Data Warehouse KPI's:
 
 This project's Dimensional Model consists of one table of Facts and 4 tables of Dimensions.
 
-Dimensional model:
-![Alt text](C:\Users\SOFKA\Downloads\Dimensional Model.png)
+Dimensional model:<br />
+![Alt text](Dimension Model.png)
 
 This project's Kimball Bus Matrix:
 
